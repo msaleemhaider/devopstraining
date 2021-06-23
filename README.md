@@ -10,3 +10,6 @@ Continuous Delivery and Deployment - Code changes are built and deployed to test
 
 Q3- What are the benefits of Cloud Computing
 Answer- Cost saving, Security, Scale up or down quickly, Pay for what you use only, Disaster Recovery, Loss Prevention 
+
+Q4- Difference b/w Git & Github
+Answer- GITHub is cloud based hosting service that allows you to manage Git repositories. However, Git is version control system allows you to manage and keep track of your source code history.
