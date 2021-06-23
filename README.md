@@ -16,3 +16,8 @@ Answer- GITHub is cloud based hosting service that allows you to manage Git repo
 
 Q5- Stages of Git
 Answer- Working direcotry (git add) --> Staging Area (git commit) --> Local repo (git push) --> Remote repo
+
+Q6- 3 methods of git reset?
+Answer- 1- Mixed (remove changes from local repo as well as staging area)
+		2- Soft (remove changes from local repo but stay in staging area)
+		3- Hard (remove changes from local repo, staging and working copy)
