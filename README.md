@@ -13,3 +13,6 @@ Answer- Cost saving, Security, Scale up or down quickly, Pay for what you use on
 
 Q4- Difference b/w Git & Github
 Answer- GITHub is cloud based hosting service that allows you to manage Git repositories. However, Git is version control system allows you to manage and keep track of your source code history.
+
+Q5- Stages of Git
+Answer- Working direcotry (git add) --> Staging Area (git commit) --> Local repo (git push) --> Remote repo
